@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "IT4080_NetworkConnections.sln"
+    "dotnet.defaultSolution": "IT4080_ScenesMovement.sln"
 }
